@@ -1,5 +1,36 @@
 {
     "Produtos" : [
-        {"id": 1, "nome": "Chocolate", "preço": 5, "estoque": 821, "marca": "Garoto"}
+        {"id": 498,
+        "nome": "Chocolate Meio Amargo",
+        "valor": 4.99,
+        "estoque": 821,
+        "marca": "Garoto"},
+
+        {"id": 111,
+        "nome": "Fandangos",
+        "valor": 6.99,
+        "estoque": 918,
+        "marca": "Elma Chips"},
+
+        {"id": 78,
+        "nome": "Tubes",
+        "valor": 2.99,
+        "estoque": 999,
+        "marca": "Fini"},
+
+        {"id": 9685,
+        "nome": "Kinder Ovo",
+        "valor": 7.99,
+        "estoque": 326,
+        "marca": "Kinder"},
+
+        {"id": 537,
+        "nome": "KitKat",
+        "valor": 2.59,
+        "estoque": 821,
+        "marca": "Nestle"}
+
+
+
     ]
 }
